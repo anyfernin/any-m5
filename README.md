@@ -8,4 +8,5 @@ streamlit run hello_world.py --server.enableCORS false --server.enableXsrfProtec
 streamlit run dataset.py --server.enableCORS false --server.enableXsrfProtection false
 
 python -m streamlit run app-cache.py --server.enableCORS false --server.enableXsrfProtection false
+python -m streamlit run app-chart.py --server.enableCORS false --server.enableXsrfProtection false
 streamlit run app-welcome.py --server.enableCORS false --server.enableXsrfProtection false
