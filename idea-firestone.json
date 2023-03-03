@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "idea-firestone",
+  "private_key_id": "f608aabe3184feb3f91ed164810a309321d9113c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxK7BRZmZ0Q50i\nDJ10UeCAobNLkgpGenX5bCyZUzL6oErfWNDhgs01ticKNKCoUjng2I2u1o5QhOVG\n6aU8uT+w0N01VTUHTYzhG4e/UW+RB/6xfHEN4aIjxwyKRuN9Eh/mHUR7o887And+\npvcmDwAzm2ll8Za1isCPlsFSYp395640ewoav0t2Xouj2wHyOZcUO5ECqxp/A4NZ\nM67TSA9WZ5j8T9K3D0wLiiLlpXi26f5ntHxiECXa6uGtNgeTdgU5LKVz/nqUoQJO\nPvlsXaNQvb5E9hx4QvFrSup8W4jSP8sgr7hOL1IOYD4jida62PSa5iIw7+LVf3mC\ngbTTlSmtAgMBAAECggEALVsTYMtXuDTlAaX8Gx6o3BVJSrPg2IkaMZe9VSUk/F9T\nu5jHpKuxMCppFSZC6MRgF80ofFVmCnvzHDPNPt3nzbKypqghErUKN0iueE53Qsgq\nrjI+2QBl20XmUnHyY/7jVqwwb3yQnTk08SH6TG5zrUKAeX4fCGu0fy3nYNlpO+oJ\nPr4c5LCx3G3vYuwFHPFfOjJsHf6POEmAERtGqmVLeB63OhJVHGQwnyo+5hJswEuh\nnElzQXokMubeDZU+LlfXYSuKdhLby9E8DhQaG13ha5uWgvPXnpSXF0clCu+/hLBo\nU/O3y6q05bVTrcp3XnybN8ktomCdTDN4GnY35PabuwKBgQDzTkDWnH9lptA5YX7X\n+J+4c5h2zn1iJKr0e0+krh0B9vTuGPYuqkfxJslfmW/SCo2lT851YxwIKkW7cZlf\nVeQE2dAH4IweuTM9t5pCWN+lTebhlhREQwqnOhZ2vQhEtR0lIcgkj6opHdZAzzrD\n66ssMZ551dy/48qydaxBBAE/+wKBgQC6ahf/QD7GgYjYqJYCLmsu/j0As1FOsJ83\nBZKvQ0QnkrLRFVvtQ7pNGiEcpZTb/5zySk3eXRHcG7KtPbiB8qp1HYeyLFj6bcHz\ngO+OLwqn/7n326NAwrGbl0IK555ckv5NZjJPRARao0/q1Y3WRZPpp1KbWsnmh+RN\nn7E3L5mEdwKBgCTfWxwrI3N4UF4h1GNOnoYJnrWCnaXeALqEZZGDgYnmrz/WMJjp\n3XVCd4oxaqzeRJElAxjvKDRkk6TQlnnIPoItsEVBVnrhfk6AILSlW19l6vONFw0x\nS9AEEZt1Eme3Ou+Bqx8/Vn5cszenMDS45nwQGQBF1OqPzww0oSJJRRc5AoGAL2WA\nOncEPwZ6W9PpaB6TQ/yCWCY/mwlPQfcZx5QLxSAIdR7AI8BfovDs0FLNWW5RYk1A\nJTR2sQcd0+xoeCnR6zsZ4FRkPzAe6yGyRu1xASwFBZ8DkBiwfcXklc80NYduPxGn\n4v2BOeZiEGxBxuQj6nmPiE56HTIZ+x6KOWTR3JsCgYEAvn6DpuHrCxC0G1Tv9Hna\nm0Ncx4jQ8BhOvqQN/z9Mspd6gRLbJdCViC5r+98NzNMC45331OjJKdfj9EgnKX83\nfyJjOhVm/lXIBKz9I0Mqa+pvKhYTO6ZDODhCFPY0aI5N+t5Ds8eObkSd6tc0Apj4\nntq6qTdm3pRXnEkul1BBNlo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-z2704@idea-firestone.iam.gserviceaccount.com",
+  "client_id": "101384196648686559782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-z2704%40idea-firestone.iam.gserviceaccount.com"
+}

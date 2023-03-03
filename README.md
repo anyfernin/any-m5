@@ -9,4 +9,5 @@ streamlit run dataset.py --server.enableCORS false --server.enableXsrfProtection
 
 python -m streamlit run app-cache.py --server.enableCORS false --server.enableXsrfProtection false
 python -m streamlit run app-chart.py --server.enableCORS false --server.enableXsrfProtection false
+python -m streamlit run minireto1.py --server.enableCORS false --server.enableXsrfProtection false
 streamlit run app-welcome.py --server.enableCORS false --server.enableXsrfProtection false
